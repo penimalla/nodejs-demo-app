@@ -1,5 +1,4 @@
-# nodejs-demo-app
-elevate-labs-1
+
 # nodejs-demo-app
 Simple Node.js app for CI/CD demo.
 
